@@ -166,7 +166,17 @@ requests>=2.31.0
 * User authentication
 
 ---
+## Output
 
+### Input Screen
+
+![Input Screen](Screenshots/Input.jpeg)
+
+### Output Screen
+
+![Output Screen](Screenshots/Output.jpeg)
+
+---
 ## Author
 
 Vardhan Bachu
